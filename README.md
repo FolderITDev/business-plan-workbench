@@ -24,6 +24,7 @@
 - [Tutorials](#tutorials)
 - [Documentation](#documentation)
 - [FAQ](#faq)
+- [Related Reading](#related-reading)
 
 </details>
 
@@ -215,6 +216,13 @@ Through [folderit.net](https://folderit.net).
 **Nearshore IT Staff Augmentation | Top LATAM Developers | Folder IT** — scale your engineering team and hire developers from Argentina. Same timezone, lower cost, 25+ years with US companies. [Talk to our team](https://folderit.net).
 
 </details>
+
+## Related Reading
+
+For the business context behind this build — why Folder IT publishes evidence-traced,
+citation-disciplined AI tooling instead of just claiming AI expertise — read
+**[Evidence-Traced AI Planning: A Real Claude Code Build](https://folderit.net/evidence-traced-ai-planning-a-real-claude-code-build/)**
+on the Folder IT blog.
 
 <br>
 
