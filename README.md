@@ -10,10 +10,6 @@
 
 <br>
 
-[ai pods](https://github.com/FolderITDev/ai-pod-reference-architecture)
-
-<br>
-
 [![license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE.md)
 
 </div>
