@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+*.egg-info/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+*.swp
+
+# Local scratch / logs
+scratch/
+*.log
+
+# Cases are local-only. Track just the cases/ folder itself (via .gitkeep);
+# every individual case — its inputs, evidence, and generated output — stays on your machine.
+cases/*
+!cases/.gitkeep

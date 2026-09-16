@@ -1,0 +1,12 @@
+{
+  "//": "Obsidian-oriented output. These cosmetic rules conflict with Obsidian conventions (frontmatter-first, callouts, wikilinks) and don't affect rendering, so they're disabled to keep editor panes quiet.",
+  "default": true,
+  "MD013": false,
+  "MD022": false,
+  "MD032": false,
+  "MD033": false,
+  "MD040": false,
+  "MD041": false,
+  "MD058": false,
+  "MD060": false
+}
